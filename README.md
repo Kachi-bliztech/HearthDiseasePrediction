@@ -9,7 +9,7 @@ Problem Statement:
 Cardiovascular diseases remain one of the leading causes of death globally. Accurately predicting whether a person has heart disease based on available health metrics is crucial for timely intervention. The objective of this project is to build a binary classification model that predicts the likelihood of heart disease using patient data.
 
 Model Approach:
-- <b>Utilized a labeled dataset containing patient records with features such as age, sex, cholesterol level, resting blood pressure, chest pain type, and ECG results.</b>
+- </b>Utilized a labeled dataset containing patient records with features such as age, sex, cholesterol level, resting blood pressure, chest pain type, and ECG results.</b>
 - </b>Performed data preprocessing: a.Handled missing values and encoded categorical features b.Standardized numerical variables</b>
 - </b>Conducted exploratory data analysis (EDA) to understand feature relationships and correlations.</b>
 
@@ -21,12 +21,12 @@ Built and tested  machine learning model: </b>
 
 <h2>Skills </h2>
 
-- <b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b>
-- <b>Exploratory Data Analysis (EDA)</b>
-- <b>Feature engineering</b>
-- <b>Logistic Regression</b>
-- <b>Model evaluation and interpretation</b>
+- </b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b>
+- </b>Exploratory Data Analysis (EDA)</b>
+- </b>Feature engineering</b>
+- </b>Logistic Regression</b>
+- </b>Model evaluation and interpretation</b>
 
 <h2>Outcomes </h2>
 
-- <b>Successfully built a Logistic Regression model capable of predicting the presence of heart disease with strong performance metrics. This project demonstrates how machine learning can support early diagnosis and contribute to preventive healthcare solutions.</b>
+- </b>Successfully built a Logistic Regression model capable of predicting the presence of heart disease with strong performance metrics. This project demonstrates how machine learning can support early diagnosis and contribute to preventive healthcare solutions.</b>
